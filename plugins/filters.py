@@ -168,7 +168,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             keyboard = InlineKeyboardMarkup([
                 [InlineKeyboardButton("HELP", callback_data="help_data"),
                     InlineKeyboardButton("ABOUT", callback_data="about_data")],
-                [InlineKeyboardButton("⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/cinemapranthanmaar")]
+                [InlineKeyboardButton("⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/Coffee_Movies_Channel")]
             ])
 
             await query.message.edit_text(
@@ -183,7 +183,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             keyboard = InlineKeyboardMarkup([
                 [InlineKeyboardButton("BACK", callback_data="start_data"),
                     InlineKeyboardButton("ABOUT", callback_data="about_data")],
-                [InlineKeyboardButton("⭕️ SUPPORT ⭕️", url="https://t.me/Shijilraj")]
+                [InlineKeyboardButton("⭕️ SUPPORT ⭕️", url="https://t.me/Coffee_Lovers_TG")]
             ])
 
             await query.message.edit_text(
@@ -198,7 +198,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             keyboard = InlineKeyboardMarkup([
                 [InlineKeyboardButton("BACK", callback_data="help_data"),
                     InlineKeyboardButton("START", callback_data="start_data")],
-                [InlineKeyboardButton("SOURCE CODE", url="https://github.com/Sh-Jil/Auto-Filter-Bot-V2")]
+                [InlineKeyboardButton("SOURCE CODE", url="https://t.me/Coffee_Lovers_Tg")]
             ])
 
             await query.message.edit_text(
