@@ -1,9 +1,9 @@
 class script(object):
 
 
-    START_MSG = """ <b>Hi {}
+    START_MSG = """ <b>Hello🤗 {}
 
-Official Bot of @Cinemapranthanmaar :
+Official Bot of @Coffee_Movies :
 
 Bot gives button link to files in connected channels on query !
 
@@ -51,17 +51,17 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @Shijilraj</b>"""
+<b>© @Telecat_X</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """🤖<b>My Name : Auto Filter Bot V2</b>
     
-⭕️<b>Creater :</b> @Shijilraj
+👤<b>Creater :</b> @Telecat_X
 
-⭕️<b>Language :</b> <code>Python3</code>
+📜<b>Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+📚<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⛏️<b>How To Host? :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
 
 """
