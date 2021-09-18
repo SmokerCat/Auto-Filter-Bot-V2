@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @trojanzhex
+# @Coffee_Movies
 
 
 from pyrogram import Client, filters
@@ -22,7 +22,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/cinemapranthanmaar")
+                            "⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/Coffee_Movies")
                     ]
                 ]
             ),
@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ SUPPORT ⭕️", url="https://t.me/Shijilraj")
+                            "⭕️ SUPPORT ⭕️", url="https://t.me/Coffee_Lovers_TG")
                     ]
                 ]
             ),
@@ -68,7 +68,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "SOURCE CODE", url="https://github.com/Sh-Jil/Auto-Filter-Bot-V2")
+                            "SOURCE CODE", url="https://t.me/Coffee_Lovers_TG")
                     ]
                 ]
             ),
